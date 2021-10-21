@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Metrics](https://metrics.lecoq.io/Superbia-zyb?template=classic)  
